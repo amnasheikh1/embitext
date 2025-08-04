@@ -2,12 +2,6 @@
 
 This study introduces a new dataset \textbf{\scalebox{1.2}{E}MBITEX\scalebox{1.2}{T}} to model ambiguity in language by navigating through ambiguity surrounding pronominal reference to entity or event. 
 
-### Author: Amna 
-### IT University of Copenhagen 
-
-### Co-Author: Christian Hardmeier 
-### IT University of Copenhagen 
-
 
 
  ## Objective 
