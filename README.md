@@ -31,6 +31,6 @@ The datasets are compiled together are provided in [data] folder. Dataset is spl
 - Processing the data in [code/data_preprocessing.ipynb](code/data_preprocessing.ipynb)
 - Training loop for Promary Experiment of Pronoun Probability Inference to predict entity reference probabilities, resulting in event eference probabilities as their complement in [code/training_loop_entity.py](code/training_loop_entity.py)
 - Training loop for Promary Experiment of Pronoun Probability Inference to predict event reference probabilities, resulting in event eference probabilities as their complement in [code/training_loop_event.py](code/training_loop_event.py)
-- Secondary Experiment code for generating Synthetic Data in [code/text_generation_experiment.ipynb](code/text_generation_experiment.ipynb)
+- Code for promting LLMs to generate ambiguous text examples in [code/text_generation_experiment.ipynb](code/text_generation_experiment.ipynb)
 
 - 
