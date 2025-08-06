@@ -27,4 +27,4 @@ The datasets are compiled together are provided in [data] folder. Dataset is spl
 - Code for promting LLMs to generate ambiguous text examples in [code/text_generation_experiment.ipynb](code/text_generation_experiment.ipynb)
 
 
-Note: This Paper is submitted as dual submission to both CODI and CRAC. 
+Note: This Paper is submitted as a dual submission to both CODI and CRAC, per the CODI‑CRAC 2025 joint Call For Papers. 
